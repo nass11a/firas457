@@ -1,5 +1,7 @@
 # 💫 About Me:
-Third year undergraduate student in Computer Science and Mathematics , interested in software  development.<br><br>fast learner and highly motivated <br><br>skills:<br>java , c,  c++ , python, sql , AWS , Docker , Linux, bash,<br>advanced bash, networking , Algorthims
+##### Third year undergraduate student in Computer Science and Mathematics , interested in software development, Network programming , DevOps.
+##### My passion to computer science started from a very young age, I always loved to discover things and apply changes to my pc’s and my phones, but the main reason which developed that intertest was playing video games (still till now :) ).
+##### always trying to learn more and be more specialized on my field.
 
 
 ## 🌐 Socials:
